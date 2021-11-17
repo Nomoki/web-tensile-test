@@ -1,0 +1,25 @@
+body{
+    background-color: #e7e7e7 !important;
+    overflow: hidden;
+    
+}
+.head{
+    text-align: center;
+}
+.section{
+    padding: 1%;
+    text-align: center;
+}
+.data1{
+    width: 15vw;
+    height: 15vh;
+    background-color: white;
+    padding: 2%;
+    text-align: center;
+    margin-right: 0%;
+    border-radius: 5px;
+}
+.con{
+    position: relative;
+    left: 1.5%;
+}
