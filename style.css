@@ -23,3 +23,12 @@ body{
     position: relative;
     left: 1.5%;
 }
+.col{
+    margin : 10px;
+}
+.dot{
+    text-align: right;
+}
+.spec{
+    width: 100%;
+}
